@@ -1,0 +1,6 @@
+com\example\user\service\UserService.class
+com\example\user\UserServiceApplication.class
+com\example\user\entity\User.class
+com\example\user\feign\EmailServiceFeignClient.class
+com\example\user\controller\UserController.class
+com\example\user\repository\UserRepository.class
