@@ -1,0 +1,4 @@
+Run project from command prompy:
+
+mvn package
+java -jar target/user-service-0.0.1-SNAPSHOT.jar
